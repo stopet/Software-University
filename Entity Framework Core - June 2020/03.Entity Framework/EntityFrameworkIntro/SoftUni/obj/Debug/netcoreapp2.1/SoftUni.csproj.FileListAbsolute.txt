@@ -1,0 +1,11 @@
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
