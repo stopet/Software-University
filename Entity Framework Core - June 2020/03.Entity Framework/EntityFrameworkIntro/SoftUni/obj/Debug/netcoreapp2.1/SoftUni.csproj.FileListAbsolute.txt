@@ -9,3 +9,15 @@ C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp
 C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
 C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
 C:\Users\s.petkov\source\repos\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\03.Entity Framework\EntityFrameworkIntro\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.genruntimeconfig.cache
