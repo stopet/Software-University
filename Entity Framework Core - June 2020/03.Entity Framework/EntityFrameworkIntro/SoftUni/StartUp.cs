@@ -13,11 +13,39 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
 
-            string result = GetEmployeesInPeriod(context);
+            string result = GetEmployee147(context);
 
             Console.WriteLine(result);
         }
 
+        //Problem 03
+        public static string GetEmployeesFullInformation(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var employees = context
+                .Employees
+                .OrderBy(e=>e.EmployeeId)
+                .Select(e => new
+                {
+                    e.FirstName,
+                    e.LastName,
+                    e.MiddleName,
+                    e.JobTitle,
+                    e.Salary
+                })
+                .ToList();
+
+            foreach (var e in employees)
+            {
+                sb
+                    .AppendLine($"{e.FirstName} {e.LastName} {e.MiddleName} " +
+                    $"{e.JobTitle} {e.Salary:f2}");
+                  
+            }
+
+            return sb.ToString().TrimEnd();
+        }
         //Problem 04
         public static string GetEmployeesWithSalaryOver50000(SoftUniContext context)
         {
@@ -147,6 +175,63 @@ namespace SoftUni
                     sb
                         .AppendLine($"--{p.ProjectName} - {p.StartDate} - {p.EndDate}");
                 }
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //Problem 08
+        public static string GetAddressesByTown(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+            var addresses = context
+                .Addresses
+                .Select(a => new
+                {
+                    a.AddressText,
+                    TownName = a.Town.Name,
+                    EmployeeCount = a.Employees.Count()
+                })
+                .OrderByDescending(a => a.EmployeeCount)
+                .ThenBy(a => a.TownName)
+                .ThenBy(a => a.AddressText)
+                .ToList();
+
+            foreach (var a in addresses)
+            {
+                sb.AppendLine($"{a.AddressText}, {a.TownName} - {a.EmployeeCount} employees");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //Problem 09
+        public static string GetEmployee147(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var employee147 = context
+                .Employees
+                .Where(e => e.EmployeeId == 147)
+                .Select(e => new
+                {
+                    e.FirstName,
+                    e.LastName,
+                    e.JobTitle,
+                    Projects = e.EmployeesProjects
+                    .Select(ep => ep.Project.Name)
+                    .OrderBy(ep=>ep)
+                    .ToList()
+                })
+                .Single();
+
+            sb
+                .AppendLine($"{employee147.FirstName} {employee147.LastName} - {employee147.JobTitle}");
+
+            foreach (var projectName in employee147.Projects)
+            {
+                sb
+                    .AppendLine(projectName);
             }
 
             return sb.ToString().TrimEnd();
