@@ -1,0 +1,8 @@
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
