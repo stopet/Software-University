@@ -6,3 +6,15 @@ C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2
 C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
 C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
 C:\Users\s.petkov\source\repos\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.genruntimeconfig.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\05.Code first\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb

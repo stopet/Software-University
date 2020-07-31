@@ -31,15 +31,32 @@ namespace P03_SalesDatabase.Data
         {
             modelBuilder.Entity<Product>(entity =>
             {
-                entity.Property(e => e.Name)
+                entity
+                .Property(e => e.Name)
                 .IsUnicode();
             });
 
-            modelBuilder.Entity<Customer>(entity=>
+            modelBuilder.Entity<Customer>(entity =>
             {
-                entity.Property(e => e.Name)
+                entity
+                .Property(e => e.Name)
                 .IsUnicode();
-            })
+
+                entity
+                .Property(e => e.Email)
+                .IsUnicode(false);
+
+                entity
+                .Property(e => e.CreditCardNumber)
+                .IsUnicode(false);
+            });
+
+            modelBuilder.Entity<Store>(entity =>
+            {
+                entity
+                .Property(e => e.Name)
+                .IsUnicode();
+            });
         }
     }
 }
