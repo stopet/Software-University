@@ -1,0 +1,12 @@
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\spetk\Desktop\Software-University\Entity Framework Core - June 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
