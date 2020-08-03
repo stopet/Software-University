@@ -1,0 +1,6 @@
+C:\Users\s.petkov\Desktop\SQL\Software-University\Entity Framework Core - June 2020\06. Advanced Quering\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp2.1\BookShop.Models.deps.json
+C:\Users\s.petkov\Desktop\SQL\Software-University\Entity Framework Core - June 2020\06. Advanced Quering\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp2.1\BookShop.Models.dll
+C:\Users\s.petkov\Desktop\SQL\Software-University\Entity Framework Core - June 2020\06. Advanced Quering\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp2.1\BookShop.Models.csprojAssemblyReference.cache
+C:\Users\s.petkov\Desktop\SQL\Software-University\Entity Framework Core - June 2020\06. Advanced Quering\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp2.1\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\s.petkov\Desktop\SQL\Software-University\Entity Framework Core - June 2020\06. Advanced Quering\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp2.1\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\s.petkov\Desktop\SQL\Software-University\Entity Framework Core - June 2020\06. Advanced Quering\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp2.1\BookShop.Models.AssemblyInfo.cs
